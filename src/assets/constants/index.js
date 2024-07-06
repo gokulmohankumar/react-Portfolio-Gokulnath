@@ -12,7 +12,7 @@ export const EDUCATION = [
     year: "2022 - present",
     degree: "BTECH in Computer Science and Business Systems ",
     institution: "K S Rangasamy College of Technology",
-    description: `with CGPA of 8.35 upto 3rd sem `,
+    description: `with CGPA of 8.38 upto 3rd sem `,
   },
   {
     year: "2018 - 2020",
