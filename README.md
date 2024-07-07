@@ -1,4 +1,4 @@
-**Live:** https://react-portfolio-gokulnath.vercel.app/
+**Live:** https://gokulnathpotfolio.vercel.app/
 <br>
 **Technologies Used**<br>
 # React + Vite<br>
