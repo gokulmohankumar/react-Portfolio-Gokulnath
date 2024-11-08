@@ -3,7 +3,7 @@ import Logo from '../assets/Assests/Logo.jpg'
 import {FaLinkedin} from 'react-icons/fa'
 import {FaGithub} from 'react-icons/fa'
 import {FaInstagram} from 'react-icons/fa'
-import Resume from '../assets/constants/Gokulnath_resume.pdf'
+import Resume from '../assets/constants/Gokulnath_newResume.pdf'
 
 const Navbar = () => {
   return (
