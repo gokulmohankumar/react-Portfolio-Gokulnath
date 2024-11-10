@@ -40,6 +40,7 @@ const Hero = () => {
                 animate={{x:0,opacity:1}}
                 transition={{duration:1, delay:1.2}}
                 src={profilePic} alt="profile picture" />
+                className="rounded-md"
               </div>
           </div>
       </div>
