@@ -20,7 +20,7 @@ const Hero = () => {
               variants={container(0)}
               initial='hidden'
               animate='visible'
-              className='pb-16 text-6xl ml-[25px] font-thin tracking-tight lg:mt-16 lg:text-8xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-transparent'>
+              className='pb-16 text-6xl ml-[25px] font-thin tracking-tight lg:mt-16 lg:text-8xl bg-gradient-to-r from-yellow-400 via-red-500 to-orange-600 bg-clip-text text-transparent'>
               Gokulnath M
               </motion.h1>
               <motion.span
