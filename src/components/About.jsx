@@ -23,7 +23,7 @@ const About = () => {
         transition={{duration:1.5}}
         className='w-full lg:w-1/2'>
              <div className=' lg:justify-start'>
-                <p className='my-20 m1-20 max-w-xl py-6'>{ABOUT_TEXT}</p>
+                <p className='my-20 m1-20 max-w-xl py-6 text-justify'>{ABOUT_TEXT}</p>
              </div>
         </motion.div>
     </div>
