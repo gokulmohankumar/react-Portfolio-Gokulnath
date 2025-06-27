@@ -4,7 +4,8 @@ import { BiLogoMongodb } from "react-icons/bi";
 import { IoLogoNodejs} from "react-icons/io5";
 import { SiPowerbi } from "react-icons/si";
 import { DiMysql } from "react-icons/di";
-
+import { FaGithub } from "react-icons/fa";
+import { DiJava } from "react-icons/di";
 import { animate, motion } from 'framer-motion';
 
 
@@ -33,6 +34,24 @@ const Technologies = () => {
        initial={{opacity:0, x:-100}}
        transition={{duration:1.5}}
       className="flex flex-wrap items-center justify-center gap-8">
+
+        <motion.div
+          variants={iconVariants(2)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800">
+              <FaGithub className="text-7xl text-white" />
+        </motion.div>
+
+        
+        <motion.div
+        variants={iconVariants(3)}
+        initial="initial"
+        animate="animate"
+        className="rounded-2xl border-4 border-neutral-800">
+          <DiJava className="text-7xl text-orange-500" />
+          </motion.div>
+
         <motion.div 
         variants={iconVariants(3)}
         initial="initial"
